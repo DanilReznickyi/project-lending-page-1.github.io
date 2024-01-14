@@ -44,6 +44,7 @@ margin-top: 20px;
 	background: url(../img/slider_bg.jpg) no-repeat;
 	padding-top: 120px;
 	padding-bottom: 280px;
+	background-size: cover;
 }
 .top-slide h2{
 	text-transform: uppercase;
