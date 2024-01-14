@@ -42,6 +42,7 @@ margin-top: 20px;
 }
 .top-slide{
 	background: url(../img/slider_bg.jpg) no-repeat;
+	background-size: cover;
 	padding-top: 120px;
 	padding-bottom: 280px;
 }
